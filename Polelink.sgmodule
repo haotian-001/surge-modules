@@ -1,0 +1,8 @@
+#!name=Polelink - Direct Rules
+#!desc=Force DIRECT for polelink.com and dingtalkapps.com
+#!author=Haotian
+#!category=Network
+
+[Rule]
+DOMAIN-SUFFIX,polelink.com,DIRECT
+DOMAIN-SUFFIX,dingtalkapps.com,DIRECT
